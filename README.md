@@ -20,8 +20,8 @@ This Guide is based on the [_Compassionate (Yet Candid) Code Reviews_](https://w
 - "Did you consider..."
 
 ### Don'ts
-- "You should never..."
-- "These should really be..."
-- "This is a nitpick, but..."
-- "This is fine, but we should really rewrite this whole module"
-- "Why didn't you *just*..."
+- "You should never..." (Is it true)
+- "These should really be..." (Is it true)
+- "This is a nitpick, but..." (Is it necessary)
+- "This is fine, but we should really rewrite this whole module" (Is it necessary)
+- "Why didn't you **just**..." (Is it kind)
