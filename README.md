@@ -3,7 +3,7 @@
 This Guide is based on the talk of the same name by April Wensel.
 
 - slides: [_Compassionate (Yet Candid) Code Reviews_](https://www.slideshare.net/AprilWensel/compassionate-yet-candid-code-reviews)
-- video: _to be added_
+- video: [_Compassionate (Yet Candid) Code Reviews_](https://youtu.be/Ea8EiIPZvh0)
 
 ## 3 Filters for compassionate code reviews
 1. Is it true?
